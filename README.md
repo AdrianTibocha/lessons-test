@@ -10,6 +10,10 @@ Permite registrar lecciones, consultarlas por estudiante o por ID, y visualizar 
 
 ---
 
+## Arquitectura
+
+![Arquitectura](./lessons.png)
+
 ## 🚀 Ejecución del Proyecto
 
 Para ejecutar este proyecto en un entorno local, sigue los pasos descritos a continuación:
