@@ -1,0 +1,67 @@
+# === Node.js ===
+/node_modules
+frontend-lessons/node_modules
+lessons-api/node_modules
+
+# === Compiled output ===
+/dist
+/build
+frontend-lessons/.next/
+frontend-lessons/out/
+lessons-api/dist
+lessons-api/build
+
+# === Logs ===
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# === Runtime data ===
+pids
+*.pid
+*.seed
+*.pid.lock
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# === Testing ===
+/coverage
+/.nyc_output
+frontend-lessons/coverage
+lessons-api/coverage
+
+# === OS / Misc ===
+.DS_Store
+*.tsbuildinfo
+*.launch
+*.pem
+.project
+.classpath
+.settings/
+*.sublime-workspace
+
+# === Vercel ===
+frontend-lessons/.vercel
+
+# === Editor config ===
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+/.idea
+.c9/
+
+# === Yarn / PnP ===
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+
