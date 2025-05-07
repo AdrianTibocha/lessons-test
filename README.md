@@ -1,4 +1,4 @@
-# 📚 Lessons Tracker
+# 📚 Lessons Test
 
 Este proyecto es una aplicación de seguimiento de lecciones completadas por estudiantes, desarrollada con las siguientes tecnologias:
 
